@@ -26,7 +26,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Zoran Portfolio`,
-        short_name: ``,
+        short_name: `Zoka`,
         description: `Portfolio`,
         start_url: `/`,
         background_color: `#141821`,
